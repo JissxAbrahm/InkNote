@@ -1,2 +1,10 @@
-# InkNote
-Ink Note is a free, open-source handwriting font with a forward slant and a slightly wobbly, hand-drawn feel. Four weights (Regular to Bold), derived from Caveat. SIL OFL 1.1.
+
+
+A handwriting font family (Regular, Medium, SemiBold, Bold).
+
+![Preview](preview.png)
+
+## License
+Ink Note is a Modified Version of Caveat, Copyright 2014 The Caveat
+Project Authors (https://github.com/googlefonts/caveat), licensed under
+the SIL Open Font License 1.1. See OFL.txt.
